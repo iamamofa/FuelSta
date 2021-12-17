@@ -1,0 +1,11 @@
+const String login = "login";
+const String register = "register";
+const String landing = "landing";
+const String otp = "otp";
+const String home = "home";
+const String about = "about";
+const String help = "help";
+const String services = "services";
+const String account = "account";
+const String insurance = "insurance";
+const String omc_details = "omc_details";
