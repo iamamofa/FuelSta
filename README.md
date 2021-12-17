@@ -1,5 +1,4 @@
-# omc_app
-
+# omc_app Fuel Station
 A mobile app for fuel stations
 
 ## Getting Started
