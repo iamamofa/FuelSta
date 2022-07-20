@@ -21,3 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 - ```flutter run``` 
 
 Run the app on any cross platform device 😃
+# Enjoy 😏
