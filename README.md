@@ -18,4 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # How to run the App
 - ```git clone "url"```
 - ```flutter pub get```
--
+- ```flutter run``` 
+
+Run the app on any cross platform device 😃
