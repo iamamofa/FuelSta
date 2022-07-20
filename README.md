@@ -1,7 +1,7 @@
 # omc_app Fuel Station
 A mobile app for fuel stations
 
-## Getting Started
+#Getting Started
 
 This project is a starting point for a Flutter application.
 
